@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\bin\Debug\net7.0\undo.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\bin\Debug\net7.0\undo.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\bin\Debug\net7.0\undo.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\bin\Debug\net7.0\undo.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\bin\Debug\net7.0\undo.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\undo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\undo.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\undo.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\undo.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\undo.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\refint\undo.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\undo.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\undo.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\ref\undo.dll

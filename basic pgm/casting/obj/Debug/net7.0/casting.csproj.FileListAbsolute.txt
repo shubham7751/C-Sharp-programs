@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\casting\bin\Debug\net7.0\casting.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\casting\bin\Debug\net7.0\casting.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\casting\bin\Debug\net7.0\casting.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\casting\bin\Debug\net7.0\casting.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\casting\bin\Debug\net7.0\casting.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\casting\obj\Debug\net7.0\casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\casting\obj\Debug\net7.0\casting.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\casting\obj\Debug\net7.0\casting.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\casting\obj\Debug\net7.0\casting.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\casting\obj\Debug\net7.0\casting.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\casting\obj\Debug\net7.0\refint\casting.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\casting\obj\Debug\net7.0\casting.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\casting\obj\Debug\net7.0\casting.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\casting\obj\Debug\net7.0\ref\casting.dll

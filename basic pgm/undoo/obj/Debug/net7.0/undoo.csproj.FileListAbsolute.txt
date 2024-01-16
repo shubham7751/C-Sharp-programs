@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undoo\bin\Debug\net7.0\undoo.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undoo\bin\Debug\net7.0\undoo.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undoo\bin\Debug\net7.0\undoo.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undoo\bin\Debug\net7.0\undoo.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undoo\bin\Debug\net7.0\undoo.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undoo\obj\Debug\net7.0\undoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undoo\obj\Debug\net7.0\undoo.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undoo\obj\Debug\net7.0\undoo.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undoo\obj\Debug\net7.0\undoo.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undoo\obj\Debug\net7.0\undoo.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undoo\obj\Debug\net7.0\refint\undoo.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undoo\obj\Debug\net7.0\undoo.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undoo\obj\Debug\net7.0\undoo.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undoo\obj\Debug\net7.0\ref\undoo.dll

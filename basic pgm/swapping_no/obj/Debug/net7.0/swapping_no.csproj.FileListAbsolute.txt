@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\swapping_no\bin\Debug\net7.0\swapping_no.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\swapping_no\bin\Debug\net7.0\swapping_no.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\swapping_no\bin\Debug\net7.0\swapping_no.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\swapping_no\bin\Debug\net7.0\swapping_no.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\swapping_no\bin\Debug\net7.0\swapping_no.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\swapping_no\obj\Debug\net7.0\swapping_no.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\swapping_no\obj\Debug\net7.0\swapping_no.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\swapping_no\obj\Debug\net7.0\swapping_no.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\swapping_no\obj\Debug\net7.0\swapping_no.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\swapping_no\obj\Debug\net7.0\swapping_no.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\swapping_no\obj\Debug\net7.0\refint\swapping_no.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\swapping_no\obj\Debug\net7.0\swapping_no.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\swapping_no\obj\Debug\net7.0\swapping_no.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\swapping_no\obj\Debug\net7.0\ref\swapping_no.dll

@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\is_prime_no\bin\Debug\net7.0\is_prime_no.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\is_prime_no\bin\Debug\net7.0\is_prime_no.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\is_prime_no\bin\Debug\net7.0\is_prime_no.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\is_prime_no\bin\Debug\net7.0\is_prime_no.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\is_prime_no\bin\Debug\net7.0\is_prime_no.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\is_prime_no\obj\Debug\net7.0\is_prime_no.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\is_prime_no\obj\Debug\net7.0\is_prime_no.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\is_prime_no\obj\Debug\net7.0\is_prime_no.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\is_prime_no\obj\Debug\net7.0\is_prime_no.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\is_prime_no\obj\Debug\net7.0\is_prime_no.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\is_prime_no\obj\Debug\net7.0\refint\is_prime_no.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\is_prime_no\obj\Debug\net7.0\is_prime_no.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\is_prime_no\obj\Debug\net7.0\is_prime_no.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\is_prime_no\obj\Debug\net7.0\ref\is_prime_no.dll

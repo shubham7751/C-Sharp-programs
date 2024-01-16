@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\demo1\bin\Debug\net7.0\demo1.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\demo1\bin\Debug\net7.0\demo1.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\demo1\bin\Debug\net7.0\demo1.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\demo1\bin\Debug\net7.0\demo1.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\demo1\bin\Debug\net7.0\demo1.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\demo1\obj\Debug\net7.0\demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\demo1\obj\Debug\net7.0\demo1.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\demo1\obj\Debug\net7.0\demo1.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\demo1\obj\Debug\net7.0\demo1.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\demo1\obj\Debug\net7.0\demo1.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\demo1\obj\Debug\net7.0\refint\demo1.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\demo1\obj\Debug\net7.0\demo1.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\demo1\obj\Debug\net7.0\demo1.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\demo1\obj\Debug\net7.0\ref\demo1.dll

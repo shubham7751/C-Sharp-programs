@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encap_by_auto_prop\bin\Debug\net7.0\encap_by_auto_prop.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encap_by_auto_prop\bin\Debug\net7.0\encap_by_auto_prop.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encap_by_auto_prop\bin\Debug\net7.0\encap_by_auto_prop.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encap_by_auto_prop\bin\Debug\net7.0\encap_by_auto_prop.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encap_by_auto_prop\bin\Debug\net7.0\encap_by_auto_prop.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encap_by_auto_prop\obj\Debug\net7.0\encap_by_auto_prop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encap_by_auto_prop\obj\Debug\net7.0\encap_by_auto_prop.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encap_by_auto_prop\obj\Debug\net7.0\encap_by_auto_prop.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encap_by_auto_prop\obj\Debug\net7.0\encap_by_auto_prop.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encap_by_auto_prop\obj\Debug\net7.0\encap_by_auto_prop.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encap_by_auto_prop\obj\Debug\net7.0\refint\encap_by_auto_prop.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encap_by_auto_prop\obj\Debug\net7.0\encap_by_auto_prop.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encap_by_auto_prop\obj\Debug\net7.0\encap_by_auto_prop.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encap_by_auto_prop\obj\Debug\net7.0\ref\encap_by_auto_prop.dll

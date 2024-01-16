@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\bin\Debug\net7.0\partial_class.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\bin\Debug\net7.0\partial_class.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\bin\Debug\net7.0\partial_class.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\bin\Debug\net7.0\partial_class.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\bin\Debug\net7.0\partial_class.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\partial_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\partial_class.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\partial_class.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\partial_class.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\partial_class.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\refint\partial_class.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\partial_class.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\partial_class.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\undo\obj\Debug\net7.0\ref\partial_class.dll

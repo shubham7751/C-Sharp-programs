@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\Star_pyramid\bin\Debug\net6.0\Star_pyramid.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\Star_pyramid\bin\Debug\net6.0\Star_pyramid.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\Star_pyramid\bin\Debug\net6.0\Star_pyramid.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\Star_pyramid\bin\Debug\net6.0\Star_pyramid.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\Star_pyramid\bin\Debug\net6.0\Star_pyramid.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\Star_pyramid\obj\Debug\net6.0\Star_pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\Star_pyramid\obj\Debug\net6.0\Star_pyramid.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\Star_pyramid\obj\Debug\net6.0\Star_pyramid.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\Star_pyramid\obj\Debug\net6.0\Star_pyramid.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\Star_pyramid\obj\Debug\net6.0\Star_pyramid.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\Star_pyramid\obj\Debug\net6.0\refint\Star_pyramid.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\Star_pyramid\obj\Debug\net6.0\Star_pyramid.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\Star_pyramid\obj\Debug\net6.0\Star_pyramid.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\Star_pyramid\obj\Debug\net6.0\ref\Star_pyramid.dll

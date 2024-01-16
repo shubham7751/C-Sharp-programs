@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\practic1\bin\Debug\net7.0\practic1.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\practic1\bin\Debug\net7.0\practic1.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\practic1\bin\Debug\net7.0\practic1.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\practic1\bin\Debug\net7.0\practic1.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\practic1\bin\Debug\net7.0\practic1.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\practic1\obj\Debug\net7.0\practic1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\practic1\obj\Debug\net7.0\practic1.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\practic1\obj\Debug\net7.0\practic1.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\practic1\obj\Debug\net7.0\practic1.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\practic1\obj\Debug\net7.0\practic1.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\practic1\obj\Debug\net7.0\refint\practic1.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\practic1\obj\Debug\net7.0\practic1.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\practic1\obj\Debug\net7.0\practic1.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\practic1\practic1\obj\Debug\net7.0\ref\practic1.dll

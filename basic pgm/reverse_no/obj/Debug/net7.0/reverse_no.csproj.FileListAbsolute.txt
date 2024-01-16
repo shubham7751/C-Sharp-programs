@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\reverse_no\bin\Debug\net7.0\reverse_no.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\reverse_no\bin\Debug\net7.0\reverse_no.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\reverse_no\bin\Debug\net7.0\reverse_no.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\reverse_no\bin\Debug\net7.0\reverse_no.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\reverse_no\bin\Debug\net7.0\reverse_no.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\reverse_no\obj\Debug\net7.0\reverse_no.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\reverse_no\obj\Debug\net7.0\reverse_no.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\reverse_no\obj\Debug\net7.0\reverse_no.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\reverse_no\obj\Debug\net7.0\reverse_no.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\reverse_no\obj\Debug\net7.0\reverse_no.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\reverse_no\obj\Debug\net7.0\refint\reverse_no.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\reverse_no\obj\Debug\net7.0\reverse_no.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\reverse_no\obj\Debug\net7.0\reverse_no.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\reverse_no\obj\Debug\net7.0\ref\reverse_no.dll

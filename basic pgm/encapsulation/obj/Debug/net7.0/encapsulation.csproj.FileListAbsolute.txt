@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encapsulation\bin\Debug\net7.0\encapsulation.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encapsulation\bin\Debug\net7.0\encapsulation.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encapsulation\bin\Debug\net7.0\encapsulation.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encapsulation\bin\Debug\net7.0\encapsulation.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encapsulation\bin\Debug\net7.0\encapsulation.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encapsulation\obj\Debug\net7.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encapsulation\obj\Debug\net7.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encapsulation\obj\Debug\net7.0\encapsulation.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encapsulation\obj\Debug\net7.0\refint\encapsulation.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encapsulation\obj\Debug\net7.0\encapsulation.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encapsulation\obj\Debug\net7.0\encapsulation.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\encapsulation\obj\Debug\net7.0\ref\encapsulation.dll

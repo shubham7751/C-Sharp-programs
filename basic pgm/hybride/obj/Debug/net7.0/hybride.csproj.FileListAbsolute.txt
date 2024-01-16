@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\hybride\bin\Debug\net7.0\hybride.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\hybride\bin\Debug\net7.0\hybride.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\hybride\bin\Debug\net7.0\hybride.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\hybride\bin\Debug\net7.0\hybride.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\hybride\bin\Debug\net7.0\hybride.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\hybride\obj\Debug\net7.0\hybride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\hybride\obj\Debug\net7.0\hybride.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\hybride\obj\Debug\net7.0\hybride.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\hybride\obj\Debug\net7.0\hybride.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\hybride\obj\Debug\net7.0\hybride.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\hybride\obj\Debug\net7.0\refint\hybride.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\hybride\obj\Debug\net7.0\hybride.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\hybride\obj\Debug\net7.0\hybride.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\hybride\obj\Debug\net7.0\ref\hybride.dll

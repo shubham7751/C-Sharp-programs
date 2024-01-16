@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\palindrome\bin\Debug\net7.0\palindrome.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\palindrome\bin\Debug\net7.0\palindrome.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\palindrome\bin\Debug\net7.0\palindrome.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\palindrome\bin\Debug\net7.0\palindrome.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\palindrome\bin\Debug\net7.0\palindrome.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\palindrome\obj\Debug\net7.0\palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\palindrome\obj\Debug\net7.0\palindrome.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\palindrome\obj\Debug\net7.0\palindrome.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\palindrome\obj\Debug\net7.0\palindrome.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\palindrome\obj\Debug\net7.0\palindrome.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\palindrome\obj\Debug\net7.0\refint\palindrome.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\palindrome\obj\Debug\net7.0\palindrome.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\palindrome\obj\Debug\net7.0\palindrome.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\palindrome\obj\Debug\net7.0\ref\palindrome.dll

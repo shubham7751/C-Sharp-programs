@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eu/OZTeeubHWJfOCZOR0sV/CdYSQ0khjFYGJQ94cfff8SPho99ZQyTOm+lH47ewjbJuPLnrhsNb49PiGT4YGJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NTS-ShubhamJawale\\Desktop\\c#code\\Logical_pgms\\Star_2\\Star_RHT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NTS-ShubhamJawale\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\NTS-ShubhamJawale\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\NTS-ShubhamJawale\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\NTS-ShubhamJawale\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

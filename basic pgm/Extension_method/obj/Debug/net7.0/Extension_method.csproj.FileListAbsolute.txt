@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Extension_method\bin\Debug\net7.0\Extension_method.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Extension_method\bin\Debug\net7.0\Extension_method.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Extension_method\bin\Debug\net7.0\Extension_method.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Extension_method\bin\Debug\net7.0\Extension_method.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Extension_method\bin\Debug\net7.0\Extension_method.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Extension_method\obj\Debug\net7.0\Extension_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Extension_method\obj\Debug\net7.0\Extension_method.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Extension_method\obj\Debug\net7.0\Extension_method.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Extension_method\obj\Debug\net7.0\Extension_method.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Extension_method\obj\Debug\net7.0\Extension_method.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Extension_method\obj\Debug\net7.0\refint\Extension_method.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Extension_method\obj\Debug\net7.0\Extension_method.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Extension_method\obj\Debug\net7.0\Extension_method.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Extension_method\obj\Debug\net7.0\ref\Extension_method.dll

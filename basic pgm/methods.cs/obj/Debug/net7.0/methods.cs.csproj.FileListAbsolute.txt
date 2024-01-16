@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\methods.cs\bin\Debug\net7.0\methods.cs.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\methods.cs\bin\Debug\net7.0\methods.cs.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\methods.cs\bin\Debug\net7.0\methods.cs.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\methods.cs\bin\Debug\net7.0\methods.cs.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\methods.cs\bin\Debug\net7.0\methods.cs.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\methods.cs\obj\Debug\net7.0\methods.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\methods.cs\obj\Debug\net7.0\methods.cs.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\methods.cs\obj\Debug\net7.0\methods.cs.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\methods.cs\obj\Debug\net7.0\methods.cs.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\methods.cs\obj\Debug\net7.0\methods.cs.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\methods.cs\obj\Debug\net7.0\refint\methods.cs.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\methods.cs\obj\Debug\net7.0\methods.cs.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\methods.cs\obj\Debug\net7.0\methods.cs.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\methods.cs\obj\Debug\net7.0\ref\methods.cs.dll

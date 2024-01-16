@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\object_keyword\bin\Debug\net7.0\object_keyword.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\object_keyword\bin\Debug\net7.0\object_keyword.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\object_keyword\bin\Debug\net7.0\object_keyword.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\object_keyword\bin\Debug\net7.0\object_keyword.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\object_keyword\bin\Debug\net7.0\object_keyword.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\object_keyword\obj\Debug\net7.0\object_keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\object_keyword\obj\Debug\net7.0\object_keyword.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\object_keyword\obj\Debug\net7.0\object_keyword.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\object_keyword\obj\Debug\net7.0\object_keyword.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\object_keyword\obj\Debug\net7.0\object_keyword.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\object_keyword\obj\Debug\net7.0\refint\object_keyword.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\object_keyword\obj\Debug\net7.0\object_keyword.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\object_keyword\obj\Debug\net7.0\object_keyword.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\object_keyword\obj\Debug\net7.0\ref\object_keyword.dll

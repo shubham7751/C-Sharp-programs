@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\bin\Debug\net7.0\array_user_input.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\bin\Debug\net7.0\array_user_input.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\bin\Debug\net7.0\array_user_input.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\bin\Debug\net7.0\array_user_input.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\bin\Debug\net7.0\array_user_input.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\array_user_input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\array_user_input.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\array_user_input.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\array_user_input.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\array_user_input.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\refint\array_user_input.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\array_user_input.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\array_user_input.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\ref\array_user_input.dll

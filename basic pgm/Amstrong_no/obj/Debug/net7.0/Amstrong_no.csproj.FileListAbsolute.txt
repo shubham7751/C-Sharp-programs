@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Amstrong_no\bin\Debug\net7.0\Amstrong_no.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Amstrong_no\bin\Debug\net7.0\Amstrong_no.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Amstrong_no\bin\Debug\net7.0\Amstrong_no.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Amstrong_no\bin\Debug\net7.0\Amstrong_no.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Amstrong_no\bin\Debug\net7.0\Amstrong_no.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Amstrong_no\obj\Debug\net7.0\Amstrong_no.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Amstrong_no\obj\Debug\net7.0\Amstrong_no.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Amstrong_no\obj\Debug\net7.0\Amstrong_no.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Amstrong_no\obj\Debug\net7.0\Amstrong_no.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Amstrong_no\obj\Debug\net7.0\Amstrong_no.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Amstrong_no\obj\Debug\net7.0\refint\Amstrong_no.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Amstrong_no\obj\Debug\net7.0\Amstrong_no.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Amstrong_no\obj\Debug\net7.0\Amstrong_no.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Amstrong_no\obj\Debug\net7.0\ref\Amstrong_no.dll

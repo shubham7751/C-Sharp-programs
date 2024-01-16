@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\string\bin\Debug\net7.0\string.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\string\bin\Debug\net7.0\string.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\string\bin\Debug\net7.0\string.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\string\bin\Debug\net7.0\string.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\string\bin\Debug\net7.0\string.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\string\obj\Debug\net7.0\string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\string\obj\Debug\net7.0\string.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\string\obj\Debug\net7.0\string.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\string\obj\Debug\net7.0\string.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\string\obj\Debug\net7.0\string.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\string\obj\Debug\net7.0\refint\string.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\string\obj\Debug\net7.0\string.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\string\obj\Debug\net7.0\string.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\string\obj\Debug\net7.0\ref\string.dll

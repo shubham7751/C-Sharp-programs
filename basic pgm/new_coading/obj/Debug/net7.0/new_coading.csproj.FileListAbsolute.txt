@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\bin\Debug\net7.0\new_coading.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\bin\Debug\net7.0\new_coading.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\bin\Debug\net7.0\new_coading.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\bin\Debug\net7.0\new_coading.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\bin\Debug\net7.0\new_coading.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\new_coading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\new_coading.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\new_coading.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\new_coading.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\new_coading.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\refint\new_coading.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\new_coading.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\new_coading.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\new_coading\obj\Debug\net7.0\ref\new_coading.dll

@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\perfect_no\bin\Debug\net7.0\perfect_no.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\perfect_no\bin\Debug\net7.0\perfect_no.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\perfect_no\bin\Debug\net7.0\perfect_no.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\perfect_no\bin\Debug\net7.0\perfect_no.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\perfect_no\bin\Debug\net7.0\perfect_no.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\perfect_no\obj\Debug\net7.0\perfect_no.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\perfect_no\obj\Debug\net7.0\perfect_no.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\perfect_no\obj\Debug\net7.0\perfect_no.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\perfect_no\obj\Debug\net7.0\perfect_no.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\perfect_no\obj\Debug\net7.0\perfect_no.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\perfect_no\obj\Debug\net7.0\refint\perfect_no.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\perfect_no\obj\Debug\net7.0\perfect_no.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\perfect_no\obj\Debug\net7.0\perfect_no.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\perfect_no\obj\Debug\net7.0\ref\perfect_no.dll

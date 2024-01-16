@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\anonymous\bin\Debug\net7.0\anonymous.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\anonymous\bin\Debug\net7.0\anonymous.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\anonymous\bin\Debug\net7.0\anonymous.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\anonymous\bin\Debug\net7.0\anonymous.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\anonymous\bin\Debug\net7.0\anonymous.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\anonymous\obj\Debug\net7.0\anonymous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\anonymous\obj\Debug\net7.0\anonymous.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\anonymous\obj\Debug\net7.0\anonymous.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\anonymous\obj\Debug\net7.0\anonymous.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\anonymous\obj\Debug\net7.0\anonymous.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\anonymous\obj\Debug\net7.0\refint\anonymous.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\anonymous\obj\Debug\net7.0\anonymous.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\anonymous\obj\Debug\net7.0\anonymous.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\anonymous\obj\Debug\net7.0\ref\anonymous.dll

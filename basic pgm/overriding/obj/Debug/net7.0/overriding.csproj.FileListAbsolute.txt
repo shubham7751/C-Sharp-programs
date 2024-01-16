@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\overriding\bin\Debug\net7.0\overriding.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\overriding\bin\Debug\net7.0\overriding.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\overriding\bin\Debug\net7.0\overriding.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\overriding\bin\Debug\net7.0\overriding.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\overriding\bin\Debug\net7.0\overriding.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\overriding\obj\Debug\net7.0\overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\overriding\obj\Debug\net7.0\overriding.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\overriding\obj\Debug\net7.0\overriding.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\overriding\obj\Debug\net7.0\overriding.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\overriding\obj\Debug\net7.0\overriding.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\overriding\obj\Debug\net7.0\refint\overriding.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\overriding\obj\Debug\net7.0\overriding.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\overriding\obj\Debug\net7.0\overriding.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\overriding\obj\Debug\net7.0\ref\overriding.dll

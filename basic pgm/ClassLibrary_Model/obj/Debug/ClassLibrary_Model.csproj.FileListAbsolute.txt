@@ -1,0 +1,6 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary_Model\bin\Debug\ClassLibrary_Model.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary_Model\bin\Debug\ClassLibrary_Model.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary_Model\obj\Debug\ClassLibrary_Model.csproj.AssemblyReference.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary_Model\obj\Debug\ClassLibrary_Model.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary_Model\obj\Debug\ClassLibrary_Model.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary_Model\obj\Debug\ClassLibrary_Model.pdb

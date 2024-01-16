@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\star_1\bin\Debug\net7.0\star_1.exe
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\star_1\bin\Debug\net7.0\star_1.deps.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\star_1\bin\Debug\net7.0\star_1.runtimeconfig.json
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\star_1\bin\Debug\net7.0\star_1.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\star_1\bin\Debug\net7.0\star_1.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\star_1\obj\Debug\net7.0\star_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\star_1\obj\Debug\net7.0\star_1.AssemblyInfoInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\star_1\obj\Debug\net7.0\star_1.AssemblyInfo.cs
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\star_1\obj\Debug\net7.0\star_1.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\star_1\obj\Debug\net7.0\star_1.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\star_1\obj\Debug\net7.0\refint\star_1.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\star_1\obj\Debug\net7.0\star_1.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\star_1\obj\Debug\net7.0\star_1.genruntimeconfig.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\Logical_pgms\star_1\obj\Debug\net7.0\ref\star_1.dll

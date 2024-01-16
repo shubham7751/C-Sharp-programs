@@ -1,0 +1,14 @@
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary1_DB\bin\Debug\ClassLibrary1_DB.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary1_DB\bin\Debug\ClassLibrary1_DB.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary1_DB\obj\Debug\ClassLibrary1_DB.csproj.AssemblyReference.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary1_DB\obj\Debug\ClassLibrary1_DB.csproj.CoreCompileInputs.cache
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary1_DB\obj\Debug\ClassLibrary1_DB.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary1_DB\obj\Debug\ClassLibrary1_DB.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary1_DB\bin\Debug\ClassLibrary1_DB.dll.config
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary1_DB\bin\Debug\ClassLibrary_Model.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary1_DB\bin\Debug\EntityFramework.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary1_DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary1_DB\bin\Debug\ClassLibrary_Model.pdb
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary1_DB\bin\Debug\EntityFramework.xml
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary1_DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NTS-ShubhamJawale\Desktop\c#code\ClassLibrary1_DB\obj\Debug\ClassLibrary1_DB.csproj.CopyComplete
